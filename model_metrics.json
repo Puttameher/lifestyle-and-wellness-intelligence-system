@@ -1,0 +1,9 @@
+{
+    "logistic_regression": 0.892,
+    "random_forest": 0.844,
+    "naive_bayes": 0.84,
+    "knn": 0.846,
+    "linear_regression_r2": 0.9395133205057575,
+    "best_classifier": "logistic_regression",
+    "best_regressor": "linear_regression"
+}
